@@ -3,7 +3,7 @@ import { Route, Routes, useLocation } from "react-router-dom";
 import { useState } from "react";
 import Sidebar from "../components/dashboard/Sidebar";
 import DashboardTasks from "../components/dashboard/DashboardTasks";
-import Search from "../components/dashboard/search";
+import Search from "../components/dashboard/Search";
 import Navbar from "../components/dashboard/Navbar";
 import Form from "../components/addTask/form";
 import Checks from "../components/checks/Checks";
